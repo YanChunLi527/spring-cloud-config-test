@@ -2,7 +2,7 @@ server:
   port: 9001
 spring:
   application:
-    name: tensquare-base
+    name: tensquare-yayya
   datasource:
     url: jdbc:mysql://192.168.234.129:3306/tensquare_base?characterEncoding=UTF8
     driver-class-name: com.mysql.jdbc.Driver
