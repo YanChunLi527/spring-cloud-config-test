@@ -17,4 +17,4 @@ eureka:
     service-url:
       defaultZone: http://eureka7001:7001/eureka/
 test:
-  api: config-bus-test
+  api: jintianchishilema
